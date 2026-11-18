@@ -8,7 +8,7 @@
 
 This repository contains the source code, data processing workflows, and curated datasets used in our study submitted to *Frontiers* regarding the media portrayal of femicides. Drawing on the core principles of **Data Feminism** (D'Ignazio & Klein), this project audits how digital news outlets narrate, classify, and often invisibilize or revictimize gender-based killings.
 
-Official institutional records on femicides frequently suffer from underreporting, delays, or structural fragmentation. While digital media serves as an alternative monitoring source, journalistic narratives often embed systemic biases—such as framing gender violence as "crimes of passion," victim-blaming, or omitting broader structural contexts. This codebase systematizes news extraction and evaluates these narrative frames using Natural Language Processing (NLP).
+Official institutional records on femicides frequently suffer from underreporting, delays, or structural fragmentation. While digital media serves as an alternative monitoring source, journalistic narratives often embed systemic biases—such as framing gender violence as "crimes of passion," victim-blaming, or omitting broader structural contexts. This codebase servers as main data source for the papers investigation.
 
 ## Repository Structure
 
